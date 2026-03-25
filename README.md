@@ -4,7 +4,11 @@
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/aeksco/gmail-open-sender-extension.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/aeksco/gmail-open-sender-extension)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aeksco.svg?style=social)](https://twitter.com/aeksco)
 
-:envelope: Adds a button to Gmail's message view to open all messages from that sender in search
+:envelope: Quickly organize or delete lots of emails from specific senders & domains.
+
+Adds a buttons to Gmail's message view to open all messages from a sender or their domain in Gmail's search:
+
+![Extension UI](https://raw.githubusercontent.com/aeksco/gmail-open-sender-extension/refs/heads/main/docs/demo.png)
 
 **Getting Started**
 
